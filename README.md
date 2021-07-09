@@ -1,2 +1,3 @@
 # jisan
-###creating redmi file 
+### creating redmi file 
+# difficult case
